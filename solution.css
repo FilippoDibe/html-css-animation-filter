@@ -46,4 +46,10 @@
     filter: grayscale(4) sepia(2);
 }
 /* esercio 8  */
-
+.ex-8-img{
+    transition: 3s;
+}
+.ex-8-img:hover{
+    filter: grayscale(4) sepia(2);
+    border-radius: 28px;
+}
