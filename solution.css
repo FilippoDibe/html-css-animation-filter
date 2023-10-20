@@ -53,3 +53,11 @@
     filter: grayscale(4) sepia(2);
     border-radius: 28px;
 }
+.ex-9-img{
+    transition: 3s;
+}
+.ex-9-img:hover{
+    filter: grayscale(4) sepia(2);
+    border-radius: 28px;
+    transform: scale(1.5);
+}
